@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mactov
-- 👀 I’m interested in so many things! The main are: python, go, C/C++, API and blockchain
-- 🌱 I’m currently learning go and rust
-- 💞️ I’m looking to collaborate on blockchain projects
+- 👀 I’m interested in so many things! The main are: python, rust, API and blockchain
+- 🌱 I’m currently learning rust
+- 💞️ I’m looking to collaborate on blockchain projects. I just started an OS project in rust called tor.
 - 📫 How to reach me www.linkedin.com/in/chrisleborgne
 
 <!---
